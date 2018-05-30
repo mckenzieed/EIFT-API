@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is E2DF-41CB
+
+ Directory of C:\Users\Ethan\Documents\EIFT\EIFT-Api
+
+05/29/2018  09:30 PM    <DIR>          .
+05/29/2018  09:30 PM    <DIR>          ..
+05/28/2018  10:31 PM                 8 .gitignore
+05/29/2018  06:55 PM    <DIR>          .idea
+05/28/2018  10:30 PM                30 README.md
+05/29/2018  09:30 PM                 0 requirements.txt
+05/29/2018  09:16 PM    <DIR>          venv
+               3 File(s)             38 bytes
+               4 Dir(s)  29,466,701,824 bytes free
